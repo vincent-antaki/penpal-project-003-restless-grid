@@ -1,6 +1,6 @@
 # The Restless Grid
 
-Inscremental oscilator noise on square grid drawing. This one gave a nice result on the penplotter and has been on of my nephew's favoriate.
+Inscremental oscilator noise on square grid drawing. It gave a nice result on the penplotter and has been on of my nephew's favorite.
 
 <table>
   <tr align="center">
