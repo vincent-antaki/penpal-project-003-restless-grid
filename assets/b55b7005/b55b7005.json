@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260314-201701",
+  "git_hash": "dev",
+  "params_hash": "b55b7005",
+  "params": {
+    "grid_divisions_x": 8,
+    "grid_divisions_y": 13,
+    "seed": 321,
+    "palette_id": "Clay and Sea",
+    "background_color": null,
+    "image_height": 2339,
+    "image_width": 1654,
+    "border_padding_size": 300,
+    "spacing": 0.75,
+    "stroke_style": {
+      "type": "inc_osc_2d",
+      "width": 2.5,
+      "variance": 5,
+      "stiffness": 0.3,
+      "damping": 0.1
+    },
+    "jitter": null,
+    "npasses": 3
+  },
+  "dev_mode": true
+}

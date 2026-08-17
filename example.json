@@ -1,0 +1,26 @@
+{
+    "grid_divisions_x" : 5,
+    "grid_divisions_y" : 8,
+    "seed" : 123,
+    "palette_id" : "Clay and Sea",
+    "background_color" : null,
+    "image_height" : 2339,
+    "image_width" : 1654,
+    "border_padding_size" : 300,
+    "spacing" : 0.85,
+    "stroke_style": {
+        "type": "inc_osc_2d",
+        "width" : 2.5,
+        "variance": 9,
+        "stiffness": 0.3,
+        "damping": 0.1
+    },
+    "jitter": {
+        "step_size": 1.0,
+        "amount":0.5
+    },
+    "npasses": {
+        "type": "linear",
+        "final": 7
+    }
+}
